@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "five_percent_white",
+      "value": "#0dffffff"
+    },
+    {
+      "name": "five_percent_black",
+      "value": "#0d000000"
+    },
+    {
+      "name": "sixty_percent_white",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "sixty_percent_black",
+      "value": "#99000000"
+    },
+    {
+      "name": "pick_text",
+      "value": "#182431"
+    }
+  ]
+}

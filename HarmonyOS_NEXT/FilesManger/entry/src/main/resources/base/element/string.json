@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "文件管理"
+    },
+    {
+      "name": "textarea_default",
+      "value": "Please enter the content to be saved to the file"
+    },
+    {
+      "name": "file_content",
+      "value": "File Content"
+    },
+    {
+      "name": "button1",
+      "value": "Save to the application sandbox directory"
+    },
+    {
+      "name": "button2",
+      "value": "Reads the saved file content."
+    },
+    {
+      "name": "title",
+      "value": "File Management"
+    },
+    {
+      "name": "bar1",
+      "value": "Application File"
+    },
+    {
+      "name": "bar2",
+      "value": "Public file"
+    },
+    {
+      "name": "select_photo",
+      "value": "Select an image from the gallery to display."
+    },
+    {
+      "name": "textarea_default2",
+      "value": "File Contents..."
+    },
+    {
+      "name": "button3",
+      "value": "Save the test.txt file to the user directory."
+    },
+    {
+      "name": "button4",
+      "value": "Reading the content of the test.txt file"
+    }
+  ]
+}

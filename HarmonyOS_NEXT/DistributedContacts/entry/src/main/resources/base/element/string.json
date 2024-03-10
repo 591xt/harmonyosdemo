@@ -1,0 +1,168 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "EntryAbility description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Contacts"
+    },
+    {
+      "name": "list_item_title",
+      "value": "Contact Name"
+    },
+    {
+      "name": "page_title",
+      "value": "Contact"
+    },
+    {
+      "name": "contacts_num_template",
+      "value": "contacts"
+    },
+    {
+      "name": "contacts_select",
+      "value": "selected"
+    },
+    {
+      "name": "selected_text",
+      "value": "selected"
+    },
+    {
+      "name": "edit_text",
+      "value": "edit"
+    },
+    {
+      "name": "delete_text",
+      "value": "delete"
+    },
+    {
+      "name": "delete_contact",
+      "value": "Delete Contact"
+    },
+    {
+      "name": "edit_title",
+      "value": "edit contacts"
+    },
+    {
+      "name": "add_contacts_text",
+      "value": "add contacts"
+    },
+    {
+      "name": "edit_save_to_text",
+      "value": "save to: phone"
+    },
+    {
+      "name": "edit_item_name",
+      "value": "name"
+    },
+    {
+      "name": "edit_item_email",
+      "value": "email"
+    },
+    {
+      "name": "edit_item_address",
+      "value": "address"
+    },
+    {
+      "name": "edit_item_note",
+      "value": "note"
+    },
+    {
+      "name": "edit_item_phone",
+      "value": "phone"
+    },
+    {
+      "name": "delete_batch",
+      "value": "Batch Deletion"
+    },
+    {
+      "name": "connection_device",
+      "value": "device connection"
+    },
+    {
+      "name": "contacts_empty",
+      "value": "No Contacts"
+    },
+    {
+      "name": "bottom_text_all_selected",
+      "value": "select all"
+    },
+    {
+      "name": "bottom_text_deletion",
+      "value": "delete"
+    },
+    {
+      "name": "delete_dialog_text",
+      "value": "Delete this contact?"
+    },
+    {
+      "name": "batch_delete_text",
+      "value": "Are you sure you want to delete the selected contact?"
+    },
+    {
+      "name": "delete_cancel_text",
+      "value": "cancel"
+    },
+    {
+      "name": "prompt_delete",
+      "value": "Please select the contact you want to delete"
+    },
+    {
+      "name": "item_personal_email",
+      "value": "email"
+    },
+    {
+      "name": "item_remark",
+      "value": "remark"
+    },
+    {
+      "name": "select_device",
+      "value": "SelectDevice"
+    },
+    {
+      "name": "select_device_cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "please_select_device",
+      "value": "Please select a device"
+    },
+    {
+      "name": "prompt_message_deleted",
+      "value": "deleted"
+    },
+    {
+      "name": "search_contact",
+      "value": "Search contact"
+    },
+    {
+      "name": "no_device_manager",
+      "value": "deviceManager has not initialized"
+    },
+    {
+      "name": "get_trusted_device_list_failed",
+      "value": "getTrustedDeviceList failed"
+    },
+    {
+      "name": "distributed_data_sync_reason",
+      "value": "Allows data exchange between different devices."
+    },
+    {
+      "name": "access_service_dm_reason",
+      "value": "request for device manager"
+    },
+    {
+      "name": "contact_name",
+      "value": "Please enter the contact name."
+    }
+  ]
+}

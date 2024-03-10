@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "gps_location",
+      "value": "shenzhen"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "search..."
+    },
+    {
+      "name": "home_account",
+      "value": "account"
+    },
+    {
+      "name": "home_details",
+      "value": "details"
+    },
+    {
+      "name": "home_transfers",
+      "value": "transfers"
+    },
+    {
+      "name": "home_loans",
+      "value": "loans"
+    },
+    {
+      "name": "home_fund_investment",
+      "value": "fundInvestment"
+    },
+    {
+      "name": "home_wealth_products",
+      "value": "wealthProducts"
+    },
+    {
+      "name": "home_cards",
+      "value": "cards"
+    },
+    {
+      "name": "home_notes",
+      "value": "notes"
+    },
+    {
+      "name": "home_quick_profit",
+      "value": "quickProfit"
+    },
+    {
+      "name": "home_precious_metals",
+      "value": "preciousMetals"
+    },
+    {
+      "name": "home_deposits",
+      "value": "deposits"
+    },
+    {
+      "name": "home_payment",
+      "value": "payment"
+    },
+    {
+      "name": "home_quick_loan",
+      "value": "quickLoan"
+    },
+    {
+      "name": "home_more",
+      "value": "more"
+    },
+    {
+      "name": "swiper_image",
+      "value": "swiper"
+    },
+    {
+      "name": "home_list",
+      "value": "homeListInfo"
+    },
+    {
+      "name": "home_fortune_picks",
+      "value": "fortunePicks"
+    }
+  ]
+}

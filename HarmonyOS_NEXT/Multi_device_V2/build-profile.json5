@@ -1,0 +1,33 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": "4.0.0(10)",    //指定HarmonyOS应用/服务编译时的版本
+        "compatibleSdkVersion": "4.0.0(10)", //指定HarmonyOS应用/服务兼容的最低版本。版本号需改为"4.0.0(10)"，注意使用英文.和()
+        "targetSdkVersion": "4.0.0(10)",     //指定HarmonyOS应用/服务目标版本。若没有设置，默认为compatibleSdkVersion
+        "runtimeOS": "HarmonyOS",            //指定为HarmonyOS/OpenHarmony
+      }
+    ],
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./product/default",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "common",
+      "srcPath": "./common"
+    }
+  ]
+}

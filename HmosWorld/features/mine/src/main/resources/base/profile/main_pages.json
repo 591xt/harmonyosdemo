@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/PhotoPage",
+    "pages/ConfirmPage"
+  ]
+}

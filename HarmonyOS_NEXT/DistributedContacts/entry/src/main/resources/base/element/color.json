@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "list_item_title",
+      "value": "#FF182431"
+    },
+    {
+      "name": "navigation_title",
+      "value": "#FF000000"
+    },
+    {
+      "name": "theme_background",
+      "value": "#F2FAFAFA"
+    },
+    {
+      "name": "detail_page_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "list_divider",
+      "value": "#0D000000"
+    },
+    {
+      "name": "contacts_num",
+      "value": "#99000000"
+    },
+    {
+      "name": "details_bg",
+      "value": "#E4E4E4"
+    },
+    {
+      "name": "contacts_icon_text_color",
+      "value": "#182431"
+    },
+    {
+      "name": "details_bottom_font_color",
+      "value": "#FF000000"
+    },
+    {
+      "name": "font_color",
+      "value": "#606060"
+    },
+    {
+      "name": "empty_font_color",
+      "value": "#99182431"
+    },
+    {
+      "name": "bottom_bar_font_color",
+      "value": "#FF000000"
+    },
+    {
+      "name": "cancel_font_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "selected_font_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "button_text_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "button_line_divider_color",
+      "value": "#C7C7C7"
+    }
+  ]
+}

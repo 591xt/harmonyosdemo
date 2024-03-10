@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "文件管理"
+    },
+    {
+      "name": "textarea_default",
+      "value": "请输入保存至文件的内容"
+    },
+    {
+      "name": "file_content",
+      "value": "文件内容"
+    },
+    {
+      "name": "button1",
+      "value": "保存至应用沙箱目录"
+    },
+    {
+      "name": "button2",
+      "value": "读取保存的文件内容"
+    },
+    {
+      "name": "title",
+      "value": "文件管理"
+    },
+    {
+      "name": "bar1",
+      "value": "应用文件"
+    },
+    {
+      "name": "bar2",
+      "value": "公共文件"
+    },
+    {
+      "name": "select_photo",
+      "value": "从图库中选择一张图片展示"
+    },
+    {
+      "name": "textarea_default2",
+      "value": "文件内容..."
+    },
+    {
+      "name": "button3",
+      "value": "保存test.txt至用户目录"
+    },
+    {
+      "name": "button4",
+      "value": "读取test.txt文件内容"
+    }
+  ]
+}

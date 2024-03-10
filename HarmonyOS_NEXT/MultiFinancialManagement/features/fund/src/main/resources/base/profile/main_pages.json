@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Funding",
+    "pages/FundingDetail",
+    "pages/TrendsPage"
+  ]
+}

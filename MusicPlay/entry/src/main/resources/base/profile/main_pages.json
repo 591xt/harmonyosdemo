@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/MusicComment",
+    "pages/PlayPage"
+  ]
+}

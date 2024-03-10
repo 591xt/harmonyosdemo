@@ -1,0 +1,168 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模板描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "EntryAbility描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "通讯录"
+    },
+    {
+      "name": "list_item_title",
+      "value": "联系人姓名"
+    },
+    {
+      "name": "page_title",
+      "value": "联系人"
+    },
+    {
+      "name": "contacts_num_template",
+      "value": "个联系人"
+    },
+    {
+      "name": "contacts_select",
+      "value": "已选择"
+    },
+    {
+      "name": "selected_text",
+      "value": "个"
+    },
+    {
+      "name": "edit_text",
+      "value": "编辑"
+    },
+    {
+      "name": "delete_text",
+      "value": "删除"
+    },
+    {
+      "name": "delete_contact",
+      "value": "删除联系人"
+    },
+    {
+      "name": "edit_title",
+      "value": "编辑联系人"
+    },
+    {
+      "name": "add_contacts_text",
+      "value": "新建联系人"
+    },
+    {
+      "name": "edit_save_to_text",
+      "value": "保存到: 手机"
+    },
+    {
+      "name": "edit_item_name",
+      "value": "姓名"
+    },
+    {
+      "name": "edit_item_address",
+      "value": "地址"
+    },
+    {
+      "name": "edit_item_email",
+      "value": "邮箱"
+    },
+    {
+      "name": "edit_item_note",
+      "value": "备注"
+    },
+    {
+      "name": "edit_item_phone",
+      "value": "手机"
+    },
+    {
+      "name": "delete_batch",
+      "value": "批量删除"
+    },
+    {
+      "name": "connection_device",
+      "value": "连接设备"
+    },
+    {
+      "name": "contacts_empty",
+      "value": "没有联系人"
+    },
+    {
+      "name": "bottom_text_all_selected",
+      "value": "全选"
+    },
+    {
+      "name": "bottom_text_deletion",
+      "value": "删除"
+    },
+    {
+      "name": "delete_dialog_text",
+      "value": "是否删除此联系人？"
+    },
+    {
+      "name": "batch_delete_text",
+      "value": "是否删除所选中的联系人？"
+    },
+    {
+      "name": "delete_cancel_text",
+      "value": "取消"
+    },
+    {
+      "name": "prompt_delete",
+      "value": "请选择需要删除的联系人"
+    },
+    {
+      "name": "item_personal_email",
+      "value": "邮箱"
+    },
+    {
+      "name": "item_remark",
+      "value": "备注"
+    },
+    {
+      "name": "select_device",
+      "value": "选择设备"
+    },
+    {
+      "name": "select_device_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "please_select_device",
+      "value": "请选择一个设备"
+    },
+    {
+      "name": "prompt_message_deleted",
+      "value": "已删除"
+    },
+    {
+      "name": "search_contact",
+      "value": "搜索联系人"
+    },
+    {
+      "name": "no_device_manager",
+      "value": "deviceManager尚未初始化。"
+    },
+    {
+      "name": "get_trusted_device_list_failed",
+      "value": "获取信任设备列表失败。"
+    },
+    {
+      "name": "distributed_data_sync_reason",
+      "value": "允许不同设备间的数据交换"
+    },
+    {
+      "name": "access_service_dm_reason",
+      "value": "设备管理申请权限"
+    },
+    {
+      "name": "contact_name",
+      "value": "请输入联系人姓名"
+    }
+  ]
+}

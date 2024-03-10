@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "gps_location",
+      "value": "深圳"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "搜索..."
+    },
+    {
+      "name": "home_account",
+      "value": "账户"
+    },
+    {
+      "name": "home_details",
+      "value": "明细"
+    },
+    {
+      "name": "home_transfers",
+      "value": "转账"
+    },
+    {
+      "name": "home_loans",
+      "value": "贷款"
+    },
+    {
+      "name": "home_fund_investment",
+      "value": "基金投资"
+    },
+    {
+      "name": "home_wealth_products",
+      "value": "理财产品"
+    },
+    {
+      "name": "home_cards",
+      "value": "信用卡"
+    },
+    {
+      "name": "home_notes",
+      "value": "账单"
+    },
+    {
+      "name": "home_quick_profit",
+      "value": "速盈"
+    },
+    {
+      "name": "home_precious_metals",
+      "value": "贵金属"
+    },
+    {
+      "name": "home_deposits",
+      "value": "存款产品"
+    },
+    {
+      "name": "home_payment",
+      "value": "缴费"
+    },
+    {
+      "name": "home_quick_loan",
+      "value": "快贷"
+    },
+    {
+      "name": "home_more",
+      "value": "更多"
+    },
+    {
+      "name": "swiper_image",
+      "value": "swiper"
+    },
+    {
+      "name": "home_list",
+      "value": "homeListInfo"
+    },
+    {
+      "name": "home_fortune_picks",
+      "value": "财富精选"
+    }
+  ]
+}
